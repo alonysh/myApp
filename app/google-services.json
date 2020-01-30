@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953663335072",
+    "firebase_url": "https://hogwarts-47d50.firebaseio.com",
+    "project_id": "hogwarts-47d50",
+    "storage_bucket": "hogwarts-47d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953663335072:android:8b4cc5ac7edd2a9f94b7c5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953663335072-qkom52epf6cof9ti4pumea6hcropnd5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_Ns0A0R7aQkZgH54O9o11tpqkVOK4HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953663335072-qkom52epf6cof9ti4pumea6hcropnd5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

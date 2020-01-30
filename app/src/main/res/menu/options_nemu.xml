@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="find friends"
+        android:id="@+id/mainFindFrndOption"
+        app:showAsAction="never"
+        >
+
+    </item>
+    <item
+        android:title="Create grupe"
+        android:id="@+id/mainCrateGrupOption"
+        app:showAsAction="never"
+        >
+
+    </item>
+    <item
+        android:title="setting"
+        android:id="@+id/mainSettingOption"
+        app:showAsAction="never"
+        >
+
+    </item>
+    <item
+        android:title="log out"
+        android:id="@+id/mainLogOption"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+
+</menu>
